@@ -1,0 +1,4 @@
+language: c
+services:
+  - mysql
+script: source test.sh
